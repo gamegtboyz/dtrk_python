@@ -1,0 +1,7 @@
+{
+    "name": "James",
+    "age": 31,
+    "company": "NextStep Advisory",
+    "cylist": true,
+    "bikes": ["Trek","Cannondale"]
+}
